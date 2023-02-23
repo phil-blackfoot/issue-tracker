@@ -23,4 +23,4 @@ The app is deployed on [Heroku](https://www.heroku.com/) platform.
 
 
 
-If you have any questions, suggestions or feedback, feel free to contact me on [Telegram](https://t.me/witness_me) or by [email](mailto:vladislavnikolaenko@gmail.com)
+If you have any questions, suggestions or feedback, feel free to contact me on [Telegram](https://t.me/phil_blackfoot) or by [email](mailto:philipchernonogdev@gmail.com)
